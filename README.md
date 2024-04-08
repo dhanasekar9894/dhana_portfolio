@@ -1,8 +1,13 @@
 **DHANASEKAR**
+
 **DATA SCIENTIST | DATA ANALYST**
+
 Bangalore, INDIA
+
 Email: dhanask9894@gmail.com
+
 Phone: (+91)8525916389
+
 LinkedIn: LinkedIn Profile
 
 **Summary**
