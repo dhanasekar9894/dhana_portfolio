@@ -1,12 +1,14 @@
 ## Data Scientist
 
 #Summary
+
 Results-driven data analyst with 2.6 years of experience leveraging SQL, Python, and Tableau to conduct in-depth analysis 
 of large datasets and identify trends, patterns, and relationships. Proficient in visualizing complex data to support datadriven decision making and effectively communicate insights to cross-functional teams and stakeholders. Track record of 
 utilizing ATS-optimized techniques to improve data analysis efficiency and accuracy. Strong problem-solving skills and a 
 passion for using data to drive impact.
 
 #Professional Experience
+
 Senior Systems Associate – Data and Analytics
 INFOSYS, Bangalore, INDIA
 July 2021–Present
@@ -26,6 +28,7 @@ seamless integration into the operational workflow
 fostering a data-driven culture within the organization.
 
 #Skills
+
  Data Analysis: Advanced knowledge of SQL, Python, and Tableau for data analysis, data visualization, and datadriven decision making.
  Machine Learning: Experience with machine learning algorithms, including regression analysis, decision trees, and 
 clustering.
