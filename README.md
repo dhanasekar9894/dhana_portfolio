@@ -11,7 +11,7 @@ Proficient in predictive modeling to anticipate future trends and drive strategi
 
 * Revolutionizing car sales analysis, my PowerBI dashboard provides comprehensive insights into sales trends, customer preferences, and dealership performance. Through dynamic visualizations and data-driven analytics, this project offers invaluable tools for optimizing strategies and driving business success in the automotive industry.
    
-_Click here to view the work_: (https://www.novypro.com/profile_projects/dhanasekar)
+_Click here to view the work_: [a link](https://www.novypro.com/profile_projects/dhanasekar)
 
 
 
