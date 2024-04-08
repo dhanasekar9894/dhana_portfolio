@@ -47,7 +47,9 @@ SQL, Databases, Statistics, Python, Tableau, Data Visualization, Data Warehousin
 
 **Certifications**
 Structured Query Language by Michigan University
+
 Python for Data Science and AI by IBM
+
 Machine Learning with Python by IBM
 
 **Education**
