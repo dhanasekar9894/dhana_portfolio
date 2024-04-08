@@ -18,7 +18,7 @@ _Click here to view the work_: [https://www.novypro.com/profile_projects/dhanase
 
 _Contact Details_
 
-_Email:_ dhanask9894@gmail.com | _Phone:_ (+91)8525916389 | _LinkedIn_: https://www.linkedin.com/in/dhana-sekar-5a06b4178/
+_Email:_ [dhanask9894@gmail.com] | _Phone:_ (+91)8525916389 | _LinkedIn_: [https://www.linkedin.com/in/dhana-sekar-5a06b4178/]
 
 
 
