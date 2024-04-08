@@ -1,6 +1,6 @@
 **DHANASEKAR**
 
-**DATA SCIENTIST | DATA ANALYST**
+**DATA SCIENTIST**
 
 Bangalore, INDIA
 
@@ -25,9 +25,13 @@ July 2021–Present
 5. Led training sessions to promote data science methodologies and foster a data-driven culture within the organization.
 
 **Skills**
+
 Data Analysis: SQL, Python, Tableau
+
 Machine Learning: Regression Analysis, Decision Trees, Clustering
+
 Data Modeling: Design and Implementation
+
 Cross-Functional Collaboration
 Data Visualization
 Data Quality Assurance
@@ -35,6 +39,7 @@ Project Management
 Communication
 
 **Technical Skills**
+
 SQL, Databases, Statistics, Python, Tableau, Data Visualization, Data Warehousing, Machine Learning, NLP, Predictive Modeling, Business Intelligence, Scaling, Optimization, Data Modeling, Dashboarding.
 
 **Proof Of Concept Projects**
@@ -51,11 +56,12 @@ SQL, Databases, Statistics, Python, Tableau, Data Visualization, Data Warehousin
 4. Key Skills Utilized: Python, Clustering Algorithms, EDA, Data Visualization, SQL, Tableau, Customer Segmentation, Marketing Strategy.
 
 **Certifications**
-Structured Query Language by Michigan University
 
-Python for Data Science and AI by IBM
+1. Structured Query Language by Michigan University
 
-Machine Learning with Python by IBM
+2. Python for Data Science and AI by IBM
+
+3. Machine Learning with Python by IBM
 
 **Education**
 MBA in Data Science and Analytics (Concentration: Data Science and Analytics)
