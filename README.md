@@ -14,7 +14,7 @@ Proficient in predictive modeling to anticipate future trends and drive strategi
 _Click here to view the work_: [Car Sales Insight Dashboard](https://www.novypro.com/profile_projects/dhanasekar)
 
 
-****Data Scientice - End-to-End Project****
+**Data Scientice - End-to-End Project**
 
 **1. <u>SkyAds-Elevating Aviation Marketing through Data-Driven Approach Targeting</u>**
 
