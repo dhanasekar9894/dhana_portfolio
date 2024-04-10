@@ -14,7 +14,13 @@ Proficient in predictive modeling to anticipate future trends and drive strategi
 _Click here to view the work_: [Car Sales Insight Dashboard](https://www.novypro.com/profile_projects/dhanasekar)
 
 
+**Data Scientice - End-to-End Project**
 
+**1. SkyAds-Elevating Aviation Marketing through Data-Driven Approach Targeting**
+
+* This project showcases a strategic shift towards data-driven digital advertising within the aviation industry. By leveraging machine learning, I developed targeted models for both laptop and mobile users, ensuring precision in advertising spend allocation. The implementation enables the company to optimize campaign effectiveness and achieve higher returns on investment. Explore the project details here
+
+Explore the project details here: [Targeting users Web App](https://skyads-elevating-aviation-marketing-through-data-driven-target.streamlit.app/)
 
 _Contact Details_
 
