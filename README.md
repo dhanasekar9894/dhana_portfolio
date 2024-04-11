@@ -11,8 +11,8 @@ With nearly 3 years of experience, I've honed my skills in data analytics, parti
 
 I find joy in leveraging data to solve complex problems and drive actionable insights. With a dedication to real-time learning and problem-solving, I've honed my skills in advanced data analytics and science concepts, using them to address pressing business challenges.
 
-|**_Leveraging data analysis and visualization to inform and enhance business decisions. 
-Proficient in predictive modeling to anticipate future trends and drive strategic planning_**|
+**_Leveraging data analysis and visualization to inform and enhance business decisions. 
+Proficient in predictive modeling to anticipate future trends and drive strategic planning_**
 
 I've mastered advanced data analytics and science concepts during my pursuit of a Master's in Data Science, applying them to real-world scenarios to drive transformative outcomes.
 
