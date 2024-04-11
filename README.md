@@ -1,5 +1,5 @@
 
-**Dhana Sekar**
+**DHANA SEKAR**
 
 Data Scientist specializing in analytics-driven strategies to enhance product performance and drive business growth
 
