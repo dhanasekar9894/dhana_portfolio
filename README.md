@@ -15,9 +15,19 @@ Proficient in predictive modeling to anticipate future trends and drive strategi
 _Explore the project here_: [Car Sales Insight Dashboard](https://www.novypro.com/profile_projects/dhanasekar)
 
 
+__________________________________________________________________________________________________________________________________________________________________________________
 **Data Science - End-to-End Project**
 
-**1. <u>SkyAds-Elevating Aviation Marketing through Data-Driven Approach Targeting</u>**
+**1. <u>Predictive-Maintainance Forecasting (RUL)</u>**
+
+* Revolutionizing Machine Health Monitoring: Predicting Scanner Failures for Tomorrow's Reliability.
+* Precision Forecasting: Unlocking Insights into Scanner Downtime with Advanced Machine Learning.
+* Harnessing AI for Reliability: Building Tomorrow's Confidence by Anticipating Component Failures.
+
+  _Explore the project here_: [Predictive-Maintainance App](https://predictive-maintainance-forecasting.streamlit.app/)
+
+
+**2. <u>SkyAds-Elevating Aviation Marketing through Data-Driven Approach Targeting</u>**
 
 * This project showcases a strategic shift towards data-driven digital advertising within the aviation industry. By leveraging machine learning, I developed targeted models for both laptop and mobile users, ensuring precision in advertising spend allocation. The implementation enables the company to optimize campaign effectiveness and achieve higher returns on investment.
 
